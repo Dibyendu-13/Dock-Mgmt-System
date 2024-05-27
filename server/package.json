@@ -1,4 +1,10 @@
 {
+  "name": "my-nodejs-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "assert": "^2.1.0",
     "body-parser": "^1.20.2",
